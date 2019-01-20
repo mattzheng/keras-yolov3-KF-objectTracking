@@ -114,13 +114,13 @@ python - 3.6
 
 那么笔者对keras-yolov3以及KF算法都进行一定修改。那么步骤变得简单一些：
 
-- 加载keras yolov3 voc预训练模型
+- 加载keras yolov3 coco预训练模型
 - 解析
 
 
 
 ```
-# 加载keras yolov3 voc预训练模型
+# 加载keras yolov3 coco预训练模型
 yolo_test_args = {
     "model_path": 'model_data/yolo.h5',
     "anchors_path": 'model_data/yolo_anchors.txt',
