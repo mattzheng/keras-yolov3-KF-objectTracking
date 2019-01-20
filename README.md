@@ -12,7 +12,7 @@
 CSDN博文：https://blog.csdn.net/sinat_26917383/article/details/86557399
 
 笔者公众号：
-![在这里插入图片描述](http://img.my.csdn.net/uploads/201707/25/1500946139_2180.jpg)
+![在这里插入图片描述](https://github.com/mattzheng/keras-yolov3-KF-objectTracking/blob/master/1500946139_2180.jpg)
 
 ----------
 
